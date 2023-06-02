@@ -1,0 +1,482 @@
+Su manejo es sencillo para los usuarios ya que mediante una serie de pulsaciones son capaces de navegar a través de diferentes contenidos y servicios
+APLICACIÓN WEB
+Archivo binario, cuyo contenido se interpreta por el ordenador como un programa
+EJECUTABLE
+Navegador web a través del cual un usuario realiza peticiones web
+CLIENTE
+Fichero que describe como desplegar una aplicación web
+DESCRIPTOR DE DESPLIEGUE
+Lenguaje de programación en entorno servidor
+PERL
+Parte del desarrollo de una aplicación web encargada de producir la apariencia final que ve el usuario
+FRONT-END
+Proceso por el que una aplicación web pasa a estar lista para utilizarse
+DESPLIEGUE
+Lenguaje en entorno cliente
+HTML
+Nombre del servidor web de Microsoft
+IIS
+1Lenguaje de programación en entorno cliente que aporta dinamismo
+JAVASCRIPT
+Parte del desarrollo de una aplicación web encargada de realizar todo aquello que queda oculto al usuario
+BACK-END
+Tipo de estructura de una aplicación web que se refiere a cómo un usuario va a navegar a través de las diferentes pantallas de la misma
+LOGICA
+Nombre de uno de los servidores de aplicaciones más utilizados
+APACHE TOMCAT
+Nombre de la estructura lógica que consiste en que un usuario comience en una página principal y que solo pueda navegar en una dirección, hacia delante o hacia atrás
+SECUENCIAL
+Capa que media entre las capas modelo y vista, dentro del modelo de tres capas
+CONTROLADOR
+Indica el nombre de la siguiente arquitectura: (p16)
+P2P
+Serie de programas que se distribuyen conjuntamente
+PAQUETE
+Elemento que forma parte de un servidor web y que realiza un reparto de la carga de trabajo hacia los servidores de aplicaciones
+REDIRECTOR
+Máquina o software que devuelve información a un cliente
+SERVIDOR
+Clase Java en el lado del servidor que actúa como intermediaria entre el cliente y el servidor mejorando la funcionalidad de éste
+SERVLET
+Elemento que hace peticiones web a un servidor web
+USUARIO
+Nombre de la capa que define la interfaz de usuario dentro de la capa lógica del modelo de tres capas
+VISTA
+Servidor de aplicaciones de IBM
+WEBSPHERE
+El descriptor de despliegue es un fichero con extensión ...
+XML
+Servidor de aplicaciones gratuito
+WILDFLY
+Formato del archivo que contiene código fuente y que es descargado para realizar una instalación de un servidor web
+ZIP
+Proceso de confirmar que alguien es quien dice ser
+AUTENTICACION
+En Windows, dentro de qué carpeta se encuentra el ejecutable openssl para la creación de certificados digitales
+BIN
+Texto complementario para documentar archivos de código
+COMENTARIO
+Palabra clave a la que le sigue un determinado valor y da órdenes de configuración
+DIRECTIVA
+Directiva utilizada para cambiar el nombre del servidor
+SERVERNAME
+Sección que establece directivas para los archivos con un nombre concreto
+FILES
+Directiva que indica la ruta al archivo log de errores
+ERRORLOG
+Protocolo seguro de transferencia de hipertexto
+HTTPS
+Directiva que indica otros archivos de configuración para dividir distintos aspectos de la configuración en diferentes archivos
+INCLUDE
+Qué tipo de archivo es openssl.exe
+EJECUTABLE
+Directiva que modifica el puerto por el que se comunica el servidor
+LISTEN
+Directiva que establece el email del administrador del sistema que el servidor utiliza para enviar mensajes en caso de problemas
+SERVERADMIN
+Secuencia de caracteres que forma un patrón de búsqueda
+EXPRESIÓN REGULAR
+En Windows, en qué carpeta se encuentra el archivo principal de configuración
+CONF
+Sistema de reglas que permiten que dos o más entidades de un sistema de comunicación se comuniquen entre sí para transmitir información
+PROTOCOLO
+Directiva que indica qué usuarios o grupos de usuarios pueden acceder a un recurso
+REQUIRE
+Directiva que indica la raíz de los documentos de Apache
+DOCUMENTROOT
+Directiva que establece nombres alternativos al servidor virtual
+SERVERALIAS
+Certificado en el que el firmante no necesita una autoridad certificadora en el proceso de firma
+AUTOFIRMADO
+Interfaz a través de la cual se pueden enviar y recibir diferentes tipos de datos
+PUERTO
+Sección encargada de definir los servidores virtuales a utilizar en el servidor real
+VIRTUALHOST
+En Ubuntu, en qué directorio se almacenan las páginas web para que el servidor web local pueda publicarlas
+/VAR/WWW/HTML
+Indica qué analizan en un archivo de configuración los siguientes comandos: apachectl -t y httpd -t
+SINTÁXIS
+Indica el nombre de una autoridad certificadora de pago
+SYMANTEC
+En Windows, en qué directorio de la instalación de Apache se encuentra la carpeta conf
+RAIZ
+Especificación que define una propiedad de un elemento
+ATRIBUTO
+Técnica usada para compartir el trabajo a realizar entre varios servidores
+BALANCE DE CARGA
+Nombre en clave del servidor Apache Tomcat
+CATALINA
+Proceso por el que una aplicación web pasa a estar lista para utilizarse
+DESPLIEGUE
+Estructura que tiene dos propiedades básicas, atributos y contenido, generalmente tiene una etiqueta de inicio y una etiqueta de cierre
+ELEMENTO
+Mecanismos de intercepción para llevar a cabo registros que utilizan las aplicaciones web a través de la especificación de Java Servlet
+FILTRO DE SOLICITUD
+Grabación secuencial en un archivo de todos los eventos que afectan a un proceso
+LOG
+Simulación de un servidor dentro de un servidor real
+HOST VIRTUAL
+Proceso de confirmar que alguien es quien dice ser
+AUTENTICACION
+Tecnología para crear páginas web dinámicas similar a PHP pero usando el lenguaje de programación Java
+JSP
+Herramienta para creado de certificado autofirmado
+KEYTOOL
+Ubicación de los archivos jar a los que pueden acceder todas las aplicaciones web
+LIB
+Archivo de configuración para manejar la autenticación de usuarios, siendo ahí donde se marcarán los distintos roles de cada usuario
+TOMCAT-USERS.XML
+Elemento asociado a un puerto para encargarse de manejar las comunicaciones entre un servicio y un cliente
+CONNECTOR
+Elemento situado dentro de capas host y que representa la aplicación web que se ejecuta dentro del host virtual correspondiente
+CONTEXT
+Sistema de reglas que permiten que dos o más entidades de un sistema de comunicación se comuniquen entre sí para transmitir información
+PROTOCOLO
+Apache Tomcat posee una arquitectura modular y ...
+JERARQUICA
+Nombre abstracto asociado al acceso a un conjunto de recursos
+ROL
+Archivo encargado de conservar el estado de la sesión en los reinicios de una aplicación
+SESSIONS.SER
+Elemento a incorporar en una implementación persistente para manejar sesiones
+STORE
+Interfaz a través de la cual se pueden enviar y recibir diferentes tipos de datos
+PUERTO
+Elemento que se coloca en la secuencia de procesamiento de solicitudes y acciones, interceptándolas, para poder llevar a cabo un registro de las mismas en logs
+VALVE
+Instancia de Apache Tomcat en ejecución
+WORKER
+Intermediario en las peticiones de recursos
+PROXY
+Atributo que indica al elemento Valve donde guardar los registros
+DIRECTORY
+¿Qué es un puerto?
+UNA INTERFAZ
+Enumeración de lenguajes en el entorno cliente:
+HTML, CCS, JAVASCRIPT Y FLASH
+Enumeración de lenguajes para el entorno servidor:
+PHP, PERL, ASP Y JSP
+Modelo de arquitectura web descentralizado y distribuido en el que cada nodo de la red actúa tanto como suministrador como cliente de recursos.
+MODELO P2P
+Modelo de arquitectura web que divide la carga de trabajo en dos zonas distribuidas.
+MODELO CLIENTE-SERVIDOR
+Capa del modelo de tres capas se encarga de la forma de presentar la información al usuario, es decir trabaja con código cliente (HTML, CSS, JavaScript, Flash…) que le lleva al navegador.
+CAPA DE PRESENTACIÓN
+Capa del modelo de tres capas contiene la información en código servidor (PHP, Perl, ASP, JSP…) que necesitará ser interpretada por el servidor de aplicaciones para que posteriormente el servidor web lo devuelva al usuario que llevo a cabo la petición.
+CAPA LÓGICA
+Capa del modelo de tres capas contiene la información empresarial y la que se oculta a cualquier usuario sin autorización.
+CAPA DE NEGOCIO
+¿Qué capa dentro de la capa lógica gestiona los accesos a la información?
+MODELO
+¿Qué capa dentro de la capa lógica define la interfaz de usuario?
+VISTA
+¿Qué capa dentro de la capa lógica media entre dos capas?
+CONTROLADOR
+¿Cuál es el servidor web más utilizado?
+APACHE
+¿Cuál es el servidor de aplicaciones más utilizado?
+APACHE TOMCAT
+Nombra las capas de Modelo de tres capas:
+• Capa de presentación • Capa lógica • Capa de negocio
+Capas que contiene la capa lógica del modelo de tres capas:
+• Modelo • Vista • Controlador
+Nombra los principales servidores web:
+• Apache • Nginx • IIS
+Nombra los principales servidores de aplicaciones:
+• Apache Tomcat • GlassFish • WildFly • Weblogic • WebSphere
+¿Cuál de los servidores de aplicaciones es la alternativa a Oracle?
+Weblogic
+¿Cuál de los servidores de aplicaciones es el de IBM?
+WebSphere
+¿Qué puerto utiliza Apache?
+PUERTO 80
+¿Qué puerto utiliza Apache Tomcat?
+PUERTO 8080
+Nombra los tipos de estructuras de una aplicación web:
+ESTRUCTURA FÍSICA ESTRUCTURA LÓGICA
+Tipo de estructura de una aplicación web que se refiere a cómo se almacenan los recursos de la aplicación web en el sistema de archivos del servidor web.
+ESTRUCTURA FÍSICA
+¿Cuáles son las estructuras ideales en cuanto a la estructura lógica?
+Estructura lógica secuencial, Estructura lógica de rejilla, Estructura lógica de árbol, Estructura lógica en red, Estructura lógica mixta
+¿Qué estructura lógica consiste en disponer de varias estructuras lógicas secuenciales en paralelo?
+REJILLA
+¿Qué estructura lógica permite estructurar el contenido jerárquicamente, facilitándose así la búsqueda de información y la navegación?
+ÁRBOL
+¿Qué estructura lógica no tiene un orden de forma que cada página puede llevar a todas las demás a través de diversos caminos?
+RED
+¿Qué estructura lógica combina las cuatro estructuras?
+MIXTA
+En Windows ¿Cómo se llama el archivo principal de configuración de Apache?
+C:\Apache24\conf\httpd.conf
+En Windows ¿Dónde se almacenan las páginas web que se publican mediante el servidor web local en Windows?
+C:\Apache24\htdocs
+Arrancar el servidor en Windows:
+httpd -k start
+Reiniciar el servidor en Windows:
+httpd -k restart
+Detener el servidor en Windows:
+httpd -k stop
+Instalar el servidor como servicio en Windows:
+httpd -k install
+Desinstalar el servidor como servicio en Windows:
+httpd -k uninstall
+Mostrar visión de Apache en Windows:
+httpd -v
+Mostrar opciones de httpd en Windows:
+httpd –h
+Mostrar lista de módulos en Windows:
+httpd –l
+Mostrar lista de directivas en Windows:
+httpd –L
+Ejecutar analizador de sintaxis para archivos de configuración de Apache en Windows:
+httpd –t
+En Linux ¿Cómo se llama el archivo de configuración principal de Apache?
+/etc/apache2/apache2.conf
+En Linux ¿Cómo se llama la carpeta donde se almacenan las webs?
+/var/www/html
+En Linux ¿En que achivo se puede modificar la ruta de la carpeta donde se almacenan las páginas web?
+000-default.conf
+Arrancar el servidor en Linux:
+apachectl –k start
+Reiniciar el servidor en Linux:
+apachectl –k restart
+Detener el servidor en Linux:
+apachectl –k stop
+Instalar el servidor como servicio en Linux:
+apachectl –k install
+Desinstalar el servidor como servicio:
+apachectl –k uninstall
+Mostrar versión de Apache en Linux:
+apachectl –v
+Mostrar opciones de httpd en Linux:
+apachectl –h
+Mostrar lista de módulos en Linux:
+apachectl –l
+Mostrar lista de directivas en Linux:
+apachectl –L 
+Ejecutar analizador de sintaxis para archivos de configuración en Linux:
+apachectl –t
+Directiva que indica la raíz de la instalación de Apache.
+ServerRoot
+Seccion que permite establecer una configuración para un directorio concreto.
+Directory
+Seccion que establece una configuración a varios archivos a la vez mediante expresiones regulares.
+DirectoryMatch
+Seccion que establece una expresión regular para que una sección se refiera a un grupo de archivos.
+FilesMatch
+¿Qué sección se utiliza para que en sus directivas se incluyan en una url?
+Location
+¿Qué sección se utiliza para que en sus directivas se incluyan en varias url?
+LocationMatch
+¿Dónde se encuentran almacenados los módulos de un directorio en Windows?
+C:\Apache24\modules
+¿Dónde se encuentran almacenados los módulos de un directorio en Linux?
+/etc/apache2/mods-available
+¿En qué tipo de carga los módulos están en el interior del ejecutable de Apache y han sido compilados en el mismo?
+Carga estática
+¿En qué tipo de carga los módulos están en el exterior del ejecutable de Apache y han de ser cargados mediante laconfiguración del servidor?
+Carga dinámica
+¿En qué archivo se crean los hosts virtuales en Apache?
+httpd-vhosts.conf
+Ubicación de los scripts y los archivos jar necesarios para ejecutar Apache Tomcat.
+/bin
+Ubicación donde se encuentran los principales archivos de configuración de Apache Tomcat, server.xml y web.xml.
+/conf en Windows y /var/lib/tomcat9/conf/ en Linux
+Ubicación en Apache Tomcat de los archivos jar a los que pueden acceder todas las aplicaciones wEn otras palabras, los archivos jar que se compartirán.
+/lib
+Ubicación predeterminada para los archivos de registro de Apache Tomcat.
+/logs
+Directorio temporal de archivos en Apache Tomcat.
+/temp
+Ubicación donde se implementan/almacenan las aplicaciones web o los archivos WAR en Apache Tomc
+/webapps en Windows y /webapps/var/lib/tomcat9/webapps en Linux
+Ubicación de los archivos fuente de los servlet y las clases JSP en Apache Tomcat.
+/work
+¿Cuál es el archivo de configuración principal de Apache Tomcat?
+server.xml y web.xml
+Archivo en Apache Tomcat que contiene la definición estructural del servidor haciendo alusión a las capas:
+server.xml
+Archivo en Apache Tomcat que contiene los valores por defecto a utilizar por todas las aplicaciones web que se carguen en la instancia de Tomcat.
+web.xml
+Herramienta que permite trabajar muy cómodamente con las aplicaciones web a través de distintas acciones de administración como listar las aplicaciones desplegadas, iniciar/parar aplicaciones, desplegar aplicaciones, listar sesiones activas con consulta de estadísticas o consultar el estado del servidor.
+Tomcat web manager
+¿Cómo se inicia Tomcat en Linux?
+sudo service tomcat9 start
+¿Cómo se arranca Tomcat en Windows?
+startup
+¿Cómo se detiene Tomcat en Linux?
+sudo service tomcat9 stop
+¿Cómo se detiene Tomcat en Windows?
+shutdown
+¿En qué archivo se administran los usuarios dentro de Tomcat?
+conf\tomcat-users.xml en Windows y /var/lib/tomcat9/conf/tomcat-users.xml en Linux
+Colección de nombres de usuario, contraseñas y roles utilizada por Apache Tomcat.
+Realm
+Desinstalar una aplicación en Tomcat:
+Replegar
+Define la instalación en Tomcat:
+Desplegar
+¿Qué capas tiene la arquitectura de Apache Tomcat? Ordenar.
+Server, Service, Engine, Connector, Host, Context
+Comando FTP para activar el modo pasivo
+PASSIVE
+Comando FTP para indicar que los ficheros a transferir son binarios
+BINARY
+Mediante qué modo, el servidor FTP es quien inicia las conexiones para transferir la información a través de su puerto 20/TCP y conectándose a puertos que el cliente FTP tiene que abrir para atender esas conexiones
+ACTIVO
+Palabra clave a la que le sigue un determinado valor y da órdenes de configuración
+DIRECTIVA
+Usuario con una cuenta de usuario local con contraseña en el sistema operativo donde está instalado el servidor FTP
+USUARIO ESTÁNDAR
+Protocolo ftp que se basa en ssl/tls para otorgar comunicaciones seguras
+FTPS
+Grabación secuencial en un archivo de todos los eventos que afectan a un proceso
+LOG
+Comando FTP para mostrar todos los comandos disponibles
+HELP
+Ataques de análisis de tráfico de red
+SNIFFING
+Para qué se coloca el símbolo ! o la letra l a la izquierda de un comando en un cliente FTP
+EJECUTAR
+Comando FTP para crear un directorio en el sistema de archivos del servidor
+MKDIR
+Comando FTP para cambiar de directorio en el sistema de archivos del cliente
+LCD
+Comando FTP para renombrar un fichero del sistema de archivos del servidor
+RENAME
+Comando FTP para establecer la conexión con el servidor
+OPEN
+Ataques de suplantación de identidad
+SPOOFING
+Sistema de reglas que permiten que dos o más entidades de un sistema de comunicación se comuniquen entre sí para transmitir información
+PROTOCOLO
+Comando FTP para cerrar la conexión con el servidor y además se salir del programa
+QUIT
+Indica el nombre de uno de los servidores FTP más utilizados en la actualidad
+PROFTPD
+Protocolo ftp que se basa en ssh para otorgar comunicaciones seguras
+SFTP
+Protocolo de control de transmisión que está orientado a la conexión, es decir, los datos pueden enviarse de forma bidireccional una vez establecida la conexión
+TCP
+Interfaz a través de la cual se pueden enviar y recibir diferentes tipos de datos
+PUERTO
+Ordenador encargado de suministrar información a una serie de clientes
+SERVIDOR
+Comando FTP para mostrar la ruta completa del directorio actual en el sistema de archivos del cliente
+LPWD
+Indica de qué muestra el estado el comando FTP denominado status
+CONEXION
+Nombre por defecto para una cuenta de un usuario anónimo
+ANONYMOUS
+Indica el nombre de uno de los clientes FTP más utilizados en la actualidad
+FILEZILLA CLIENT
+Mediante qué modo, siendo también el mismo cliente FTP el que inicia las conexiones para transferir la información a través de otro puerto suyo superior a 1023 y conectándose al puerto superior a 1023 que le indicase el servidor.
+MODO PASIVO.
+Tipos de acceso al servicio FTP:
+ACCESO ANÓNIMO y ACCESO AUTORIZADO
+Tipos de usuario con acceso autorizado:
+USUARIO ESTÁNDAR, USUARIO VIRTUAL
+Usuario que cuenta con nombre y contraseña para conectarse al servidor FTP pero que no posee una cuenta de usuario local en el sistema operativo donde está instalado el servidor.
+USUARIO VIRTUAL
+Usuario con una cuenta de usuario local con contraseña en el sistema operativo donde está instalado el servidor FTP.
+USUARIO ESTÁNDAR
+Tipo de acceso en el cual el cliente FTP se conecta al servidor FTP por medio de un usuario que debe existir en dicho servidor FTP.
+ACCESO AUTORIZADO
+Tipo de acceso en el cual el cliente FTP se conecta al servidor FTP por medio de un usuario anónimo.
+ACCESO ANÓNIMO
+Protocolo FTP que se basa en SSH para otorgar comunicaciones seguras.
+PROTOCOLO SFTP
+En el protocolo FTPS que puerto se utiliza para las conexiones de transferencia de comandos.
+990/TCP
+En el protocolo FTPS que puerto se utiliza para la transferencia de información.
+989/TCP
+En el protocolo SFTP que puerto se utiliza como puerto estándar.
+22/TCP
+Los clientes FTP más utilizados son los siguientes:
+• Filezilla Client , • WinSCP, • SmartFTP , • CuteFTP , • Gftp
+Los servidores FTP más utilizados son los siguientes:
+• Filezilla Server, • IIS, • Vsftpd, • Proftpd
+¿Cómo accedo a una dirección FTP desde un navegador?
+ftp://usuario:password@servidorFTP/rutaDirectorio
+Servidor DNS de Microsoft
+AZURE DNS
+Especificación que define una entrada del árbol de información del directorio
+ATRIBUTO
+Sistema de reglas que permiten que dos o más entidades de un sistema de comunicación se comuniquen entre sí para transmitir información
+PROTOCOLO
+Nombre único que identifica a un recurso en Internet
+DOMINIO
+Cada uno de los objetos que conforman el árbol de información del directorio
+ENTRADA
+Campo del registro de recursos SOA que indica los segundos que un servidor esclavo debe esperar para preguntarle al servidor maestro si el fichero de zona se ha modificado
+REFRESCO
+Entradas de los ficheros de zona que almacenan los servidores DNS y que contienen información sobre los nombres de dominio
+REGISTROS DE RECURSOS
+Herramienta gráfica que permite configurar LDAP sin utilizar comandos para editar los archivos LDIF
+PHPLDAPADMIN
+Es una de las herramientas gráficas más utilizadas que permite configurar LDAP sin utilizar comandos para editar los archivos LDIF
+JXPLORER
+Comando para comprobar si la sintaxis de los ficheros de zona es correcta
+NAMED-CHECKZONE
+Parámetro de un registro de recursos que indica los segundos que puede estar el registro en caché
+TTL
+Atributo que identifica una entrada en el directorio, que está compuesto por una sucesión de nombres distinguidos relativos
+NOMBRE DISTINGUIDO
+Partes integrantes del nombre distinguido, que referencian partes del árbol de información del directorio
+NOMBRE DISTINGUIDO RELATIVO
+Servidores que se encargan de almacenar toda la información de una zona y tiene que existir al menos uno en cada una de las zonas
+SERVIDOR AUTORIZADO
+Interfaz a través de la cual se pueden enviar y recibir diferentes tipos de datos
+PUERTO
+Definición de los tipos de objetos que se pueden almacenar en el directorio y de los atributos de cada clase de objeto.
+También indica si estos atributos son obligatorios u opcionales
+ESQUEMA
+Cliente DNS que pregunta a servidores DNS en base a un protocolo DNS para traducir un nombre a una dirección IP o
+una dirección IP a un nombre
+RESOLUTOR DE NOMBRES
+Servidor en el que sus ficheros de zona locales son de solo lectura y los obtiene de otro servidor autorizado en su zona
+SERVIDOR SECUNDARIO
+Intercambio de ficheros producido entre servidores DNS en el proceso de resolución de nombres
+TRANSFERENCIA DE ZONA
+Resolución que traduce una dirección de red a un nombre de dominio que tenga asociado
+RESOLUCIÓN INVERSA
+Resolución que traduce un nombre de dominio a una dirección de red que tenga asociada.
+RESOLUCIÓN DIRECTA
+¿Qué 2 tipo de resoluciones hay?
+RESOLUCIÓN INVERSA Y RESOLUCIÓN DIRECTA
+Registro de recursos que indica el servidor de correo de un dominio
+MX
+Indica qué significan en inglés las siglas del servicio DNS
+DOMAIN NAME SYSTEM
+Parte de la base de datos DNS que almacenan los servidores DNS
+ZONA
+¿A través de que puerto escucha el servidor DNS para comunicarse con otros servidores?
+53/TCP
+¿A través de que puerto escucha el servidor DNS para atender las peticiones de los clientes?
+53/UDP
+¿Qué fichero local del sistema operativo se utiliza como resolutor de DNS?
+HOSTS
+Ruta de fichero local Hosts en Windows:
+C:\Windows\System32\Drivers\etc\hosts
+Ruta de fichero local Hosts en Linux:
+/etc/hosts
+Tipo de consulta donde el cliente DNS envía la consulta al servidor DNS que si contiene la zona donde se encuentra el dominio consultado responderá con la dirección de red correspondiente y si no la contiene enviará la petición a otro servidor DNS que repetirá este proceso recursivamente hasta dar con la dirección del nombre de dominio consultado.
+CONSULTA RECURSIVA
+Tipo de consulta donde el cliente DNS envía la consulta al servidor DNS que si contiene la zona donde se encuentra el dominio consultado responderá con la dirección de red correspondiente y si no la contiene enviará la dirección del servidor DNS al que habrá que volver a lanzarle la consulta, repitiéndose este proceso hasta dar con la dirección del nombre de dominio consultado.
+CONSULTA ITERATIVA
+Aplicación o conjunto de aplicaciones que almacena y organiza la información sobre los usuarios de una red de ordenadores y sobre los recursos de red que permite a los administradores gestionar el acceso de usuarios a los recursos sobre dicha red.
+SERVICIO DE DIRECTORIOS
+¿De cuántos caracteres no puede exceder un nombre de dominio?
+255 CARACTERES
+Partes que intervienen en el servicio DNS:
+• Espacio de los nombres de dominio, • Base de datos DNS, • Servidores DNS, • Clientes DNS, • Protocolo DNS
+Tipos de servidores DNS:
+• Servidores autorizados, • Servidores no autorizados
+Tipos de servidores DNS autorizados:
+• Servidores maestros o primarios, • Servidores esclavos o secundarios
+Tipos de servidores DNS no autorizados:
+• Servidores caché, • Servidores reenviadores
+Servidores DNS más utilizados:
+• BIND, • Azure DNS, • PowerDNS, • Simple DNS Plus, • NSD, • dnsmasq
+Tipos de registros de recursos más utilizados:
+• SOA, • NS, • A, • AAAA, • MX, • CNAME, • PTR

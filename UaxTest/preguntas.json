@@ -1,0 +1,647 @@
+{
+    
+    "preguntas" : [
+        
+            {"question": "Su manejo es sencillo para los usuarios ya que mediante una serie de pulsaciones son capaces de navegar a través de diferentes contenidos y servicios"
+            ,"answer": "APLICACIÓN WEB"
+         },  
+            {"question": "Archivo binario, cuyo contenido se interpreta por el ordenador como un programa"
+            ,"answer": "EJECUTABLE"
+         },
+            
+            {"question": "Navegador web a través del cual un usuario realiza peticiones web"
+            ,"answer": "CLIENTE"
+         },
+            
+            {"question": "Fichero que describe como desplegar una aplicación web"
+            ,"answer": "DESCRIPTOR DE DESPLIEGUE"
+         },
+            
+            {"question": "Lenguaje de programación en entorno servidor"
+            ,"answer": "PERL"
+         },
+            
+            {"question": "Parte del desarrollo de una aplicación web encargada de producir la apariencia final que ve el usuario"
+            ,"answer": "FRONT-END"
+         },
+            
+            {"question": "Proceso por el que una aplicación web pasa a estar lista para utilizarse"
+            ,"answer": "DESPLIEGUE"
+         },
+            
+            {"question": "Lenguaje en entorno cliente"
+            ,"answer": "HTML"
+         },
+            
+            {"question": "Nombre del servidor web de Microsoft"
+            ,"answer": "IIS"
+         },
+            
+            {"question": "1Lenguaje de programación en entorno cliente que aporta dinamismo"
+            ,"answer": "JAVASCRIPT"
+         },
+            
+            {"question": "Parte del desarrollo de una aplicación web encargada de realizar todo aquello que queda oculto al usuario"
+            ,"answer": "BACK-END"
+         },
+            
+            {"question": "Tipo de estructura de una aplicación web que se refiere a cómo un usuario va a navegar a través de las diferentes pantallas de la misma"
+            ,"answer": "LOGICA"
+         },
+            
+            {"question": "Nombre de uno de los servidores de aplicaciones más utilizados"
+            ,"answer": "APACHE TOMCAT"
+         },
+            
+            {"question": "Nombre de la estructura lógica que consiste en que un usuario comience en una página principal y que solo pueda navegar en una dirección, hacia delante o hacia atrás"
+            ,"answer": "SECUENCIAL"
+         },
+            
+            {"question": "Capa que media entre las capas modelo y vista, dentro del modelo de tres capas"
+            ,"answer": "CONTROLADOR"
+         },
+            
+            {"question": "Indica el nombre de la siguiente arquitectura: (p16)"
+            ,"answer": "P2P"
+         },
+            
+            {"question": "Serie de programas que se distribuyen conjuntamente"
+            ,"answer": "PAQUETE"
+         },
+            
+            {"question": "Elemento que forma parte de un servidor web y que realiza un reparto de la carga de trabajo hacia los servidores de aplicaciones"
+            ,"answer": "REDIRECTOR"
+         },
+            
+            {"question": "Máquina o software que devuelve información a un cliente"
+            ,"answer": "SERVIDOR"
+         },
+            
+            {"question": "Clase Java en el lado del servidor que actúa como intermediaria entre el cliente y el servidor mejorando la funcionalidad de éste"
+            ,"answer": "SERVLET"
+         },
+            
+            {"question": "Elemento que hace peticiones web a un servidor web"
+            ,"answer": "USUARIO"
+         },
+            
+            {"question": "Nombre de la capa que define la interfaz de usuario dentro de la capa lógica del modelo de tres capas"
+            ,"answer": "VISTA"
+         },
+            
+            {"question": "Servidor de aplicaciones de IBM"
+            ,"answer": "WEBSPHERE"
+         },
+            
+            {"question": "El descriptor de despliegue es un fichero con extensión ..."
+            ,"answer": "XML"
+         },
+            
+            {"question": "Servidor de aplicaciones gratuito"
+            ,"answer": "WILDFLY"
+         },
+            
+            {"question": "Formato del archivo que contiene código fuente y que es descargado para realizar una instalación de un servidor web"
+            ,"answer": "ZIP"
+         },
+            
+            {"question": "Proceso de confirmar que alguien es quien dice ser"
+            ,"answer": "AUTENTICACION"
+         },
+            
+            {"question": "En Windows, dentro de qué carpeta se encuentra el ejecutable openssl para la creación de certificados digitales"
+            ,"answer": "BIN"
+         },
+            
+            {"question": "Texto complementario para documentar archivos de código"
+            ,"answer": "COMENTARIO"
+         },
+            
+            {"question": "Palabra clave a la que le sigue un determinado valor y da órdenes de configuración"
+            ,"answer": "DIRECTIVA"
+         },
+            
+            {"question": "Directiva utilizada para cambiar el nombre del servidor"
+            ,"answer": "SERVERNAME"
+         },
+            
+            {"question": "Sección que establece directivas para los archivos con un nombre concreto"
+            ,"answer": "FILES"
+         },
+            
+            {"question": "Directiva que indica la ruta al archivo log de errores"
+            ,"answer": "ERRORLOG"
+         },
+            
+            {"question": "Protocolo seguro de transferencia de hipertexto"
+            ,"answer": "HTTPS"
+         },
+            
+            {"question": "Directiva que indica otros archivos de configuración para dividir distintos aspectos de la configuración en diferentes archivos"
+            ,"answer": "INCLUDE"
+         },
+            
+            {"question": "Qué tipo de archivo es openssl.exe"
+            ,"answer": "EJECUTABLE"
+         },
+            
+            {"question": "Directiva que modifica el puerto por el que se comunica el servidor"
+            ,"answer": "LISTEN"
+         },
+            
+            {"question": "Directiva que establece el email del administrador del sistema que el servidor utiliza para enviar mensajes en caso de problemas"
+            ,"answer": "SERVERADMIN"
+         },
+            
+            {"question": "Secuencia de caracteres que forma un patrón de búsqueda"
+            ,"answer": "EXPRESIÓN REGULAR"
+         },
+            
+            {"question": "En Windows, en qué carpeta se encuentra el archivo principal de configuración"
+            ,"answer": "CONF"
+         },
+            
+            {"question": "Sistema de reglas que permiten que dos o más entidades de un sistema de comunicación se comuniquen entre sí para transmitir información"
+            ,"answer": "PROTOCOLO"
+         },
+            
+            {"question": "Directiva que indica qué usuarios o grupos de usuarios pueden acceder a un recurso"
+            ,"answer": "REQUIRE"
+         },
+            
+            {"question": "Directiva que indica la raíz de los documentos de Apache"
+            ,"answer": "DOCUMENTROOT"
+         },
+            
+            {"question": "Directiva que establece nombres alternativos al servidor virtual"
+            ,"answer": "SERVERALIAS"
+         },
+            
+            {"question": "Certificado en el que el firmante no necesita una autoridad certificadora en el proceso de firma"
+            ,"answer": "AUTOFIRMADO"
+         },
+            
+            {"question": "Interfaz a través de la cual se pueden enviar y recibir diferentes tipos de datos"
+            ,"answer": "PUERTO"
+         },
+            
+            {"question": "Sección encargada de definir los servidores virtuales a utilizar en el servidor real"
+            ,"answer": "VIRTUALHOST"
+         },
+            
+            {"question": "En Ubuntu, en qué directorio se almacenan las páginas web para que el servidor web local pueda publicarlas"
+            ,"answer": "/VAR/WWW/HTML"
+         },
+            
+            {"question": "Indica qué analizan en un archivo de configuración los siguientes comandos: apachectl -t y httpd -t"
+            ,"answer": "SINTÁXIS"
+         },
+            
+            {"question": "Indica el nombre de una autoridad certificadora de pago"
+            ,"answer": "SYMANTEC"
+         },
+            
+            {"question": "En Windows, en qué directorio de la instalación de Apache se encuentra la carpeta conf"
+            ,"answer": "RAIZ"
+         },
+            
+            {"question": "Especificación que define una propiedad de un elemento"
+            ,"answer": "ATRIBUTO"
+         },
+            
+            {"question": "Técnica usada para compartir el trabajo a realizar entre varios servidores"
+            ,"answer": "BALANCE DE CARGA"
+         },
+            
+            {"question": "Nombre en clave del servidor Apache Tomcat"
+            ,"answer": "CATALINA"
+         },
+            
+            {"question": "Proceso por el que una aplicación web pasa a estar lista para utilizarse"
+            ,"answer": "DESPLIEGUE"
+         },
+            
+            {"question": "Estructura que tiene dos propiedades básicas, atributos y contenido, generalmente tiene una etiqueta de inicio y una etiqueta de cierre"
+            ,"answer": "ELEMENTO"
+         },
+            
+            {"question": "Mecanismos de intercepción para llevar a cabo registros que utilizan las aplicaciones web a través de la especificación de Java Servlet"
+            ,"answer": "FILTRO DE SOLICITUD"
+         },
+            
+            {"question": "Grabación secuencial en un archivo de todos los eventos que afectan a un proceso"
+            ,"answer": "LOG"
+         },
+            
+            {"question": "Simulación de un servidor dentro de un servidor real"
+            ,"answer": "HOST VIRTUAL"
+         },
+            
+            {"question": "Proceso de confirmar que alguien es quien dice ser"
+            ,"answer": "AUTENTICACION"
+         },
+            
+            {"question": "Tecnología para crear páginas web dinámicas similar a PHP pero usando el lenguaje de programación Java"
+            ,"answer": "JSP"
+         },
+            
+            {"question": "Herramienta para creado de certificado autofirmado"
+            ,"answer": "KEYTOOL"
+         },
+            
+            {"question": "Ubicación de los archivos jar a los que pueden acceder todas las aplicaciones web"
+            ,"answer": "LIB"
+         },
+            
+            {"question": "Archivo de configuración para manejar la autenticación de usuarios, siendo ahí donde se marcarán los distintos roles de cada usuario"
+            ,"answer": "TOMCAT-USERS.XML"
+         },
+            
+            {"question": "Elemento asociado a un puerto para encargarse de manejar las comunicaciones entre un servicio y un cliente"
+            ,"answer": "CONNECTOR"
+         },
+            
+            {"question": "Elemento situado dentro de capas host y que representa la aplicación web que se ejecuta dentro del host virtual correspondiente"
+            ,"answer": "CONTEXT"
+         },
+            
+            {"question": "Sistema de reglas que permiten que dos o más entidades de un sistema de comunicación se comuniquen entre sí para transmitir información"
+            ,"answer": "PROTOCOLO"
+         },
+            
+            {"question": "Apache Tomcat posee una arquitectura modular y ..."
+            ,"answer": "JERARQUICA"
+         },
+            
+            {"question": "Nombre abstracto asociado al acceso a un conjunto de recursos"
+            ,"answer": "ROL"
+         },
+            
+            {"question": "Archivo encargado de conservar el estado de la sesión en los reinicios de una aplicación"
+            ,"answer": "SESSIONS.SER"
+         },
+            
+            {"question": "Elemento a incorporar en una implementación persistente para manejar sesiones"
+            ,"answer": "STORE"
+         },
+            
+            {"question": "Interfaz a través de la cual se pueden enviar y recibir diferentes tipos de datos"
+            ,"answer": "PUERTO"
+         },
+            
+            {"question": "Elemento que se coloca en la secuencia de procesamiento de solicitudes y acciones, interceptándolas, para poder llevar a cabo un registro de las mismas en logs"
+            ,"answer": "VALVE"
+         },
+            
+            {"question": "Instancia de Apache Tomcat en ejecución"
+            ,"answer": "WORKER"
+         },
+            
+            {"question": "Intermediario en las peticiones de recursos"
+            ,"answer": "PROXY"
+         },
+            
+            {"question": "Atributo que indica al elemento Valve donde guardar los registros"
+            ,"answer": "DIRECTORY"
+         },
+            
+            {"question": "¿Qué es un puerto?"
+            ,"answer": "UNA INTERFAZ"
+         },
+            
+            {"question": "Enumeración de lenguajes en el entorno cliente:"
+            ,"answer": "HTML, CCS, JAVASCRIPT Y FLASH"
+         },
+            
+            {"question": "Enumeración de lenguajes para el entorno servidor:"
+            ,"answer": "PHP, PERL, ASP Y JSP"
+         },
+            
+            {"question": "Modelo de arquitectura web descentralizado y distribuido en el que cada nodo de la red actúa tanto como suministrador como cliente de recursos."
+            ,"answer": "MODELO P2P"
+         },
+            
+            {"question": "Modelo de arquitectura web que divide la carga de trabajo en dos zonas distribuidas."
+            ,"answer": "MODELO CLIENTE-SERVIDOR"
+         },
+            
+            {"question": "Capa del modelo de tres capas se encarga de la forma de presentar la información al usuario, es decir trabaja con código cliente (HTML, CSS, JavaScript, Flash…) que le lleva al navegador."
+            ,"answer": "CAPA DE PRESENTACIÓN"
+         },
+            
+            {"question": "Capa del modelo de tres capas contiene la información en código servidor (PHP, Perl, ASP, JSP…) que necesitará ser interpretada por el servidor de aplicaciones para que posteriormente el servidor web lo devuelva al usuario que llevo a cabo la petición."
+            ,"answer": "CAPA LÓGICA"
+         },
+            
+            {"question": "Capa del modelo de tres capas contiene la información empresarial y la que se oculta a cualquier usuario sin autorización."
+            ,"answer": "CAPA DE NEGOCIO"
+         },
+            
+            {"question": "¿Qué capa dentro de la capa lógica gestiona los accesos a la información?"
+            ,"answer": "MODELO"
+         },
+            
+            {"question": "¿Qué capa dentro de la capa lógica define la interfaz de usuario?"
+            ,"answer": "VISTA"
+         },
+            
+            {"question": "¿Qué capa dentro de la capa lógica media entre dos capas?"
+            ,"answer": "CONTROLADOR"
+         },
+            
+            {"question": "¿Cuál es el servidor web más utilizado?"
+            ,"answer": "APACHE"
+         },
+            
+            {"question": "¿Cuál es el servidor de aplicaciones más utilizado?"
+            ,"answer": "APACHE TOMCAT"
+         },
+            
+            {"question": "Nombra las capas de Modelo de tres capas:"
+            ,"answer": "• Capa de presentación,• Capa lógica,• Capa de negocio"
+         },
+                     
+            {"question": "Capas que contiene la capa lógica del modelo de tres capas:"
+            ,"answer": "• Modelo,• Vista,• Controlador"
+         },
+                       
+            {"question": "Nombra los principales servidores web:"
+            ,"answer": "• Apache, • Nginx, • IIS"
+         },
+            
+            {"question": "Nombra los principales servidores de aplicaciones:"
+            ,"answer": "• Apache Tomcat,• GlassFish,• WildFly ,• Weblogic ,• WebSphere"
+         },
+            {"question": "¿Cuál de los servidores de aplicaciones es la alternativa a Oracle?"
+            ,"answer": "Weblogic"
+         },
+            
+            {"question": "¿Cuál de los servidores de aplicaciones es el de IBM?"
+            ,"answer": "WebSphere"
+         },
+            
+            {"question": "¿Qué puerto utiliza Apache?"
+            ,"answer": "PUERTO 80"
+         },
+            
+            {"question": "¿Qué puerto utiliza Apache Tomcat?"
+            ,"answer": "PUERTO 8080"
+         },
+            
+         {
+            "question": "Nombra los tipos de estructuras de una aplicación web:" ,
+            "answer": "ESTRUCTURA FÍSICA ESTRUCTURA LÓGICA"
+          },
+            {
+            "question": "Tipo de estructura de una aplicación web que se refiere a cómo se almacenan los recursos de la aplicación web en el sistema de archivos del servidor web." ,
+            "answer": "ESTRUCTURA FÍSICA"
+          },
+            {
+            "question": "¿Cuáles son las estructuras ideales en cuanto a la estructura lógica?" ,
+            "answer": "Estructura lógica secuencial, Estructura lógica de rejilla, Estructura lógica de árbol, Estructura lógica en red, Estructura lógica mixta"
+          },
+            {
+            "question": "¿Qué estructura lógica consiste en disponer de varias estructuras lógicas secuenciales en paralelo?" ,
+            "answer": "REJILLA"
+          },
+            {
+            "question": "¿Qué estructura lógica permite estructurar el contenido jerárquicamente, facilitándose así la búsqueda de información y la navegación?" ,
+            "answer": "ÁRBOL"
+          },
+            {
+            "question": "¿Qué estructura lógica no tiene un orden de forma que cada página puede llevar a todas las demás a través de diversos caminos?" ,
+            "answer": "RED"
+          },
+            {
+            "question": "¿Qué estructura lógica combina las cuatro estructuras?" ,
+            "answer": "MIXTA"
+          },
+            {
+            "question": "En Windows ¿Cómo se llama el archivo principal de configuración de Apache?" ,
+            "answer": "C:\\Apache24\\conf\\httpd.conf"
+          },
+            {
+            "question": "En Windows ¿Dónde se almacenan las páginas web que se publican mediante el servidor web local en Windows?" ,
+            "answer": "C:\\Apache24\\htdocs"
+          },
+            {
+            "question": "Arrancar el servidor en Windows:" ,
+            "answer": "httpd -k start"
+          },
+            {
+            "question": "Reiniciar el servidor en Windows:" ,
+            "answer": "httpd -k restart"
+          },
+            {
+            "question": "Detener el servidor en Windows:" ,
+            "answer": "httpd -k stop"
+          },
+            {
+            "question": "Instalar el servidor como servicio en Windows:" ,
+            "answer": "httpd -k install"
+          },
+            {
+            "question": "Desinstalar el servidor como servicio en Windows:" ,
+            "answer": "httpd -k uninstall"
+          },
+            {
+            "question": "Mostrar visión de Apache en Windows:" ,
+            "answer": "httpd -v"
+          },
+            {
+            "question": "Mostrar opciones de httpd en Windows:" ,
+            "answer": "httpd –h"
+          },
+            {
+            "question": "Mostrar lista de módulos en Windows:" ,
+            "answer": "httpd –l"
+          },
+            {
+            "question": "Mostrar lista de directivas en Windows:" ,
+            "answer": "httpd –L"
+          },
+            {
+            "question": "Ejecutar analizador de sintaxis para archivos de configuración de Apache en Windows:" ,
+            "answer": "httpd –t"
+          },
+            {
+            "question": "En Linux ¿Cómo se llama el archivo de configuración principal de Apache?" ,
+            "answer": "/etc/apache2/apache2.conf"
+          },
+            {
+            "question": "En Linux ¿Cómo se llama la carpeta donde se almacenan las webs?" ,
+            "answer": "/var/www/html"
+          },
+            {
+            "question": "En Linux ¿En que achivo se puede modificar la ruta de la carpeta donde se almacenan las páginas web?" ,
+            "answer": "000-default.conf"
+          },
+            {
+            "question": "Arrancar el servidor en Linux:" ,
+            "answer": "apachectl –k start"
+          },
+            {
+            "question": "Reiniciar el servidor en Linux:" ,
+            "answer": "apachectl –k restart"
+          },
+            {
+            "question": "Detener el servidor en Linux:" ,
+            "answer": "apachectl –k stop"
+          },
+            {
+            "question": "Instalar el servidor como servicio en Linux:" ,
+            "answer": "apachectl –k install"
+          },
+            {
+            "question": "Desinstalar el servidor como servicio:" ,
+            "answer": "apachectl –k uninstall"
+          },
+            {
+            "question": "Mostrar versión de Apache en Linux:" ,
+            "answer": "apachectl –v"
+          },
+            {
+            "question": "Mostrar opciones de httpd en Linux:" ,
+            "answer": "apachectl –h"
+          },
+            {
+            "question": "Mostrar lista de módulos en Linux:" ,
+            "answer": "apachectl –l"
+          },
+            {
+            "question": "Mostrar lista de directivas en Linux:" ,
+            "answer": "apachectl –L"
+          },
+            {
+            "question": "Ejecutar analizador de sintaxis para archivos de configuración en Linux:" ,
+            "answer": "apachectl –t"
+          },
+            {
+            "question": "Directiva que indica la raíz de la instalación de Apache." ,
+            "answer": "ServerRoot"
+          },
+            {
+            "question": "Seccion que permite establecer una configuración para un directorio concreto." ,
+            "answer": "Directory"
+          },
+            {
+            "question": "Seccion que establece una configuración a varios archivos a la vez mediante expresiones regulares." ,
+            "answer": "DirectoryMatch"
+          },
+            {
+            "question": "Seccion que establece una expresión regular para que una sección se refiera a un grupo de archivos." ,
+            "answer": "FilesMatch"
+          },
+            {
+            "question": "¿Qué sección se utiliza para que en sus directivas se incluyan en una url?" ,
+            "answer": "Location"
+          },
+            {
+            "question": "¿Qué sección se utiliza para que en sus directivas se incluyan en varias url?" ,
+            "answer": "LocationMatch"
+          },
+            {
+            "question": "¿Dónde se encuentran almacenados los módulos de un directorio en Windows?" ,
+            "answer": "C:\\Apache24\\modules"
+          },
+            {
+            "question": "¿Dónde se encuentran almacenados los módulos de un directorio en Linux?" ,
+            "answer": "/etc/apache2/mods-available"
+          },
+            {
+            "question": "¿En qué tipo de carga los módulos están en el interior del ejecutable de Apache y han sido compilados en el mismo?" ,
+            "answer": "Carga estática"
+          },
+            {
+            "question": "¿En qué tipo de carga los módulos están en el exterior del ejecutable de Apache y han de ser cargados mediante laconfiguración del servidor?" ,
+            "answer": "Carga dinámica"
+          },
+            {
+            "question": "¿En qué archivo se crean los hosts virtuales en Apache?" ,
+            "answer": "httpd-vhosts.conf"
+          },
+            {
+            "question": "Ubicación de los scripts y los archivos jar necesarios para ejecutar Apache Tomcat." ,
+            "answer": "/bin"
+          },
+            {
+            "question": "Ubicación donde se encuentran los principales archivos de configuración de Apache Tomcat, server.xml y web.xml." ,
+            "answer": "/conf en Windows y /var/lib/tomcat9/conf/ en Linux"
+          },
+            {
+            "question": "Ubicación en Apache Tomcat de los archivos jar a los que pueden acceder todas las aplicaciones wEn otras palabras, los archivos jar que se compartirán." ,
+            "answer": "/lib"
+          },
+            {
+            "question": "Ubicación predeterminada para los archivos de registro de Apache Tomcat." ,
+            "answer": "/logs"
+          },
+            {
+            "question": "Directorio temporal de archivos en Apache Tomcat." ,
+            "answer": "/temp"
+          },
+            {
+            "question": "Ubicación donde se implementan/almacenan las aplicaciones web o los archivos WAR en Apache Tomc" ,
+            "answer": "/webapps en Windows y /webapps/var/lib/tomcat9/webapps en Linux"
+          },
+            {
+            "question": "Ubicación de los archivos fuente de los servlet y las clases JSP en Apache Tomcat." ,
+            "answer": "/work"
+          },
+            {
+            "question": "¿Cuál es el archivo de configuración principal de Apache Tomcat?" ,
+            "answer": "server.xml y web.xml"
+          },
+            {
+            "question": "Archivo en Apache Tomcat que contiene la definición estructural del servidor haciendo alusión a las capas:" ,
+            "answer": "server.xml"
+          },
+            {
+            "question": "Archivo en Apache Tomcat que contiene los valores por defecto a utilizar por todas las aplicaciones web que se carguen en la instancia de Tomcat." ,
+            "answer": "web.xml"
+          },
+            {
+            "question": "Herramienta que permite trabajar muy cómodamente con las aplicaciones web a través de distintas acciones de administración como listar las aplicaciones desplegadas, iniciar/parar aplicaciones, desplegar aplicaciones, listar sesiones activas con consulta de estadísticas o consultar el estado del servidor." ,
+            "answer": "Tomcat web manager"
+          },
+            {
+            "question": "¿Cómo se inicia Tomcat en Linux?" ,
+            "answer": "sudo service tomcat9 start"
+          },
+            {
+            "question": "¿Cómo se arranca Tomcat en Windows?" ,
+            "answer": "startup"
+          },
+            {
+            "question": "¿Cómo se detiene Tomcat en Linux?" ,
+            "answer": "sudo service tomcat9 stop"
+          },
+            {
+            "question": "¿Cómo se detiene Tomcat en Windows?" ,
+            "answer": "shutdown"
+          },
+            {
+            "question": "¿En qué archivo se administran los usuarios dentro de Tomcat?" ,
+            "answer": "conf\tomcat-users.xml en Windows y /var/lib/tomcat9/conf/tomcat-users.xml en Linux"
+          },
+            {
+            "question": "Colección de nombres de usuario, contraseñas y roles utilizada por Apache Tomcat." ,
+            "answer": "Realm"
+          },
+            {
+            "question": "Desinstalar una aplicación en Tomcat:" ,
+            "answer": "Replegar"
+          },
+            {
+            "question": "Define la instalación en Tomcat:" ,
+            "answer": "Desplegar"
+          },
+            {
+            "question": "¿Qué capas tiene la arquitectura de Apache Tomcat? Ordenar." ,
+            "answer": "Server, Service, Engine, Connector, Host, Context" }
+    
+        
+    
+    ]
+    
+}

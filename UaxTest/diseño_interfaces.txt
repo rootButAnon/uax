@@ -1,0 +1,158 @@
+Indica de qué año es la nueva Ley de Propiedad Intelectual:
+2019
+Indica cuáles son los derechos que tiene el creador de una obra:
+- Derecho moral, - Derecho patrimonial
+Según el convenio de Berna, indica cuántos años han de pasar después del fallecimiento de un autor para que su obra pase a ser de dominio público:
+50
+Su función es poner de manifiesto que la obra o creación están protegidas, aunque el hecho de que no figure expresamente no invalida los derechos de autor:
+Copyright
+Su función es indicar que el autor de una obra permite la libre circulación y las copias modificadas de su obra:
+Copyleft
+Modalidad de derechos de autor que bajo unas condiciones permiten modificar los términos y condiciones de ese derecho:
+Creative Commons
+Obras cuyo periodo de protección de derechos de autor ha expirado y pueden ser reproducidas sin ninguna repercusión legal:
+Dominio Público
+Indica un formato de imagen que admita la animación:
+GIF
+Indica un formato de imagen que permita la compresión sin pérdida de calidad:
+PNG
+Indica qué formato de imagen se basa en coordenadas matemáticas que definen su posición, su forma, su color y otros atributos:
+SVG
+Indica qué atributo de la etiqueta audio sirve para reproducir en modo bucle un archivo:
+Loop
+Indica qué atributo de la etiqueta video sirve para mostrar una imagen mientras se espera a que el video comience a reproducirse:
+Poster
+Indica qué etiqueta permite especificar subtítulos a los elementos de audio y video:
+Track
+Implementa en HTML un audio en formato ogg con controles:
+<audio controls>&<source src=”audio.mp3” type=”audio/ogg”>&</audio>
+Implementa en HTML un video en formato mp4 con controles:
+<video controls>&<source src=”video.mp4”>&</video>
+Indica para qué son aconsejables las animaciones:
+- Entretener al usuario., - Dinamizar el scrolling., - Destacar contenido., - Mostrar confianza y personalidad., - Mostrar actividad.
+Las animaciones funcionales se clasifican en:
+- Animaciones reactivas., - Animaciones progresivas., - Animaciones de estado., - Animaciones instructivas., - Animaciones transitorias.
+Indica una herramienta para crear animaciones complejas:
+Maquetta.
+Indica una herramienta para crear animaciones simples:
+Google Web Designer.
+Indica cuál es la línea que se utiliza para enlazar un archivo .css a un archivo .html:
+<link rel=”stylesheet” type=”text/css” href=”estilos.css”>
+Indica cuál es la línea que se utiliza para enlazar un archivo .js a un archivo .html:
+<script src="archivo.js"></script>
+Indica qué selector se utiliza para seleccionar una etiqueta del documento HTML desde código JavaScript:
+getElementById.
+Indica cómo se denomina el framework de JavaScript que simplifica la programación de interacciones con JavaScript, la selección de elementos HTML, la creación de animaciones y el control de eventos:
+JQuery.
+Indica qué instrucción espera a que un documento esté preparado para ejecutar código jQuery:
+$(document).ready(function(){ });
+Indica cómo se denomina en jQuery el evento que controla que se ha dejado de pulsar una tecla:
+keyup.
+Indica en JavaScript qué método sirve para cambiar el atributo de un elemento seleccionado:
+attr().
+Indica en JavaScript qué método sirve para añadir código HTML a un código HTML ya existente:
+append().
+Indica en JavaScript qué método aplica un determinado comportamiento a un elemento durante el tiempo que el ratón esté sobre el elemento:
+hover().
+1Indica en JavaScript qué evento se produce cuando cambia el tamaño de la ventana del navegador web:
+resize()
+1Indica en JavaScript qué evento se produce cuando se envía un formulario:
+submit().
+Indica en JavaScript qué método oculta los elementos seleccionados:
+hide().
+Indica en JavaScript qué método anima la opacidad de los elementos seleccionados:
+fadeIn().
+Indica en JavaScript qué método muestra los elementos seleccionados de inmediato sin animación:
+show().
+Indica en JavaScript qué método muestra u oculta los elementos seleccionados de inmediato sin animación:
+toggle().
+Indica en JavaScript qué evento se envía a un elemento cuando pasa a estar seleccionado:
+focus().
+Indica en JavaScript qué evento se envía si un elemento no se carga correctamente:
+error().
+Indica tres lenguajes de programación que se ejecuten del lado del servidor:
+- Php., - Asp., - Perl.
+Indica tres lenguajes de programación que se ejecuten del lado del cliente:
+- Html., - Css., - JavaScript.
+Indica tres plugins de reproducción multimedia:
+- JPlayer., - Video.js., - Ion Sound.
+Conseguir que las páginas web sean usables por el máximo número de personas, sin importar sus conocimientos o capacidades personales o las características técnicas del equipo utilizado para acceder al sitio, es el objetivo de la:
+Accesibilidad.
+Indica quién es el organismo encargado de establecer las pautas de accesibilidad en la web para ayudar a los desarrolladores:
+W3C.org.
+Comunidad internacional donde organizaciones y personas trabajan conjuntamente para desarrollar estándares web:
+W3C.
+Pautas que explican en accesible el contenido de páginas web para personas con discapacidad:
+WCAG.
+Indica en qué año se publicaron las primeras pautas de accesibilidad:
+1999.
+Indica cuántas pautas constituyen los principios generales para el diseño accesible:
+14.
+Indica en qué año se publicaron las segundas pautas de accesibilidad:
+2008.
+Indica para qué tecnologías se desarrollaron las primeras pautas de accesibilidad:
+Html y Css.
+Indica para qué tecnologías se desarrollaron las segundas pautas de accesibilidad:
+Cualquier tecnología.
+Indica en qué niveles se organizan los documentos de las WCAG 2.0:
+Principios fundamentales, pautas generales, criterios de éxito y técnicas
+Indica cuáles son los principios generales de diseño accesible:
+Perceptibilidad, operabilidad, comprensibilidad y robustez.
+En accesibilidad, indica cuántos niveles de prioridad hay:
+3.
+En accesibilidad, indica cuántos niveles de adecuación hay:
+3.
+Indica cómo se denomina el nivel de conformidad donde se satisfacen todos los puntos de verificación:
+AAA.
+Indica cuántos criterios son los criterios de conformidad de nivel AAA:
+23.
+Indica cuáles son las fases del proceso de evaluación de la accesibilidad de un sitio web:
+Análisis automático y análisis manual.
+Indica una herramienta online de análisis de accesibilidad web:
+CynthiaSays.
+Indica una extensión del navegador de análisis de accesibilidad web:
+Hera.
+Indica una herramienta local de análisis de accesibilidad web:
+aDesigner.
+Indica quién fue el director ejecutivo de W3C:
+Jeffrey Jaffe.
+Conseguir la facilidad de uso en una página web para los visitantes que entran e interactúan con ella, es el objetivo de la:
+Usabilidad.
+La usabilidad implica una interactividad:
+Sencilla, intuitiva, agradable y segura.
+Indica los beneficios de la usabilidad:
+- Mejorar la experiencia de usuario., - Prolongar la duración de las visitas., - Fidelizar usuarios.
+Indica las claves para optimizar la usabilidad de un sitio web:
+- Estructurar bien los contenidos., - El diseño debe ser limpio., - Facilitar la interacción con el usuario., - Adaptar la web a todo tipo de dispositivos.
+Método de inspección de la usabilidad sin usuarios:
+Evaluación heurística.
+Método de inspección de la usabilidad con usuarios reales:
+Método de testing.
+Indica qué técnicas se emplean dentro del método de testing:
+- Pensar en voz alta., - Codescubrimiento., - Ordenación de tarjetas.
+Indica cuántos son los principios heurísticos de Nielsen:
+10.
+Indica en qué tipo de web los usuarios son solo espectadores de las mismas:
+web 1.0.
+Indica en qué tipo de web los usuarios dejan de ser espectadores y pasan a ser protagonistas de las mismas:
+web 2.0.
+Indica en usabilidad, qué tipos de usuarios hay:
+Activos, pasivos y colaborativos.
+Elemento de navegación que se conforma con enlaces con los que el usuario puede retroceder en su navegación o desplazarse a diferentes categorías dentro de la jerarquía de contenidos:
+Breadcrumb.
+Archivos que almacenan información sobre los usuarios:
+Cookies.
+Indica dónde se guarda la gran parte de contenido que se almacena la primera vez que se accede a una página web:
+Caché.
+Herramienta para mejorar la comprensión del texto:
+CheckMyColours.
+Herramienta para mejorar la navegabilidad de un sitio web:
+Wrs.
+Herramienta para testear la accesibilidad de un sitio web:
+W3C validator.
+Herramienta para testear la velocidad de un sitio web:
+Pingdom.
+Herramienta que permite contar con la opinión directa de los usuarios sobre su experiencia en la web:
+UserVoice.
+Herramienta que mide los tiempos que cada usuario tarda en completar una acción asignada:
+Usabilla.
