@@ -94,7 +94,7 @@ class PreguntaComponent extends HTMLElement{
             
             <div class="cara-1" id="cara1"><label class="pregunta">`+question+`</label>
             </div>
-            <div class="cara-2" id="cara2"><p class="txtRespuesta">Respuesta: <b>`+answer+`</b></p>
+            <div class="cara-2" id="cara2"><p class="txtRespuesta">Respuesta: <b>`+answer.replace('<','')+`</b></p>
               <p class="txtPregunta">Pregunta  <b>`+question+`</b</div>
           </div>
 
