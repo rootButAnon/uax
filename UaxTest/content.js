@@ -22,7 +22,7 @@ function readFile(fileName){
     pregunta = document.createElement('pregunta-component')
     pregunta.setAttribute('question',element.question)
     pregunta.setAttribute('fakeid',counter)
-    pregunta.setAttribute('answer',element.answer)
+    pregunta.setAttribute('answer',"'"+element.answer+"'")
     pregTab.appendChild(pregunta)
     console.log(element.question)
   })
